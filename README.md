@@ -36,9 +36,4 @@ PRs welcome! Planned features:
 Download | Report Issues | Star ⭐️ to Support!  
 
 
----  
 
-This description:  
-1. Targets tech-savvy GitHub users (clear benchmarks, CLI mentions).  
-2. Highlights open-source integrity (anti-malware, transparency).  
-3. Uses gamer-friendly emojis/formatting without sacrificing professionalism.  
